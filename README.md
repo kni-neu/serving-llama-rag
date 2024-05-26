@@ -1,6 +1,12 @@
 # Streamlit LLM Chatbot with RAG (Llama 3)
 
-This is a Streamlit LLM Application from Ollama, interfacing with Langchain, but with a Vector Store from ChromaDB.
+This is a Streamlit/Ollama LLM Application in a single container.
+
+## How to Run
+
+1. Clone this repository
+1. Run `./docker-startup build`
+1. Run `./docker-startup deploy`
 
 ## References
 
